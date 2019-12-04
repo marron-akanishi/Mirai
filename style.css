@@ -1,0 +1,20 @@
+.card {
+  margin: 5px;
+}
+
+.idol-detail {
+  margin: 5px;
+  border-radius: 5px;
+  padding: 7px;
+  text-align: center;
+}
+
+.idol-name {
+  margin-top: 5px;
+  background-color:rgba(255,255,255,0.8);
+}
+
+.idol-icon {
+  width: 90px;
+  border-radius: 25%;
+}
